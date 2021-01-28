@@ -1,0 +1,6 @@
+c:\users\kidder\documents\visual studio 2012\Projects\fireWork_W5iLab\fireWork_W5iLab\bin\Debug\fireWork_W5iLab.exe.config
+c:\users\kidder\documents\visual studio 2012\Projects\fireWork_W5iLab\fireWork_W5iLab\bin\Debug\fireWork_W5iLab.exe
+c:\users\kidder\documents\visual studio 2012\Projects\fireWork_W5iLab\fireWork_W5iLab\bin\Debug\fireWork_W5iLab.pdb
+c:\users\kidder\documents\visual studio 2012\Projects\fireWork_W5iLab\fireWork_W5iLab\obj\Debug\fireWork_W5iLab.csprojResolveAssemblyReference.cache
+c:\users\kidder\documents\visual studio 2012\Projects\fireWork_W5iLab\fireWork_W5iLab\obj\Debug\fireWork_W5iLab.exe
+c:\users\kidder\documents\visual studio 2012\Projects\fireWork_W5iLab\fireWork_W5iLab\obj\Debug\fireWork_W5iLab.pdb
